@@ -5,6 +5,8 @@ A robust, cross-platform Python application built with CustomTkinter and FFmpeg,
 
 This tool is particularly useful for preparing video content for platforms with strict file size limits (e.g., specific note-taking applications or old file systems).
 
+I usw it ro upload file on NotebookLM ^_^
+
 ## ✨ Features (Release 1.1)
 
 -   **Size-Based Splitting:** Automatically calculates segmentation points based on a maximum output file size (e.g., 200 MB), enforcing the limit via video re-encoding.
