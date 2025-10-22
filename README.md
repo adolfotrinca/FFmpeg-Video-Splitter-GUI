@@ -73,4 +73,4 @@ python ffmpeg_splitter_gui_v1_1.py
 4.  **Completion:** Upon success, a confirmation popup will appear, and the resulting segmented files (e.g., `video_file_v01_part01.mp4`) will be saved in the original video's directory.
     
 
-**License:** MIT (or specify your chosen license) **Author:** (Your Name or Alias)
+**License:** MIT **Author:** adolfotrinca
